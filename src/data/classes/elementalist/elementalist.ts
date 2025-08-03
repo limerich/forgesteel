@@ -36,7 +36,7 @@ As an elementalist, you can unleash your wrath across a field of foes, put an en
 					id: 'elementalist-stamina',
 					field: FeatureField.Stamina,
 					value: 18,
-					valuePerLevel: 9
+					valuePerLevel: 6
 				}),
 				FactoryLogic.feature.createBonus({
 					id: 'elementalist-recoveries',
